@@ -19,6 +19,7 @@ In the registry, add a subkey to one of the following locations:
 
 > [!Note]  
 > In the registry path, *connection* represents the name of a connection in Connection Manager.
+> Registry path is case sensitive. If the case does not mach the actual path, the driver will not load.
 
  
 
